@@ -1,0 +1,6 @@
+.idea/
+
+app/__pycache__
+aps9/__pycache__
+
+db.sqlite3
